@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Pribadi</string>
+    <string name="user">Muhammad Ilham Jamaluddin \nXIR3/25</string>
+    <string name="name">Muhammad Ilham Jamaluddin</string>
+    <string name="clas">XI RPL 3</string>
+    <string name="ttg">Bogor, 7 Agustus 2005</string>
+    <string name="jk">Laki-laki</string>
+    <string name="suka">Like</string>
+    <string name="text">Saya merupakan seorang siswa kelas XI di SMK Telkom Malang. Saya mengambil jurusan Rekayasa Perangkat Lunak. Saya memiliki kegemaran dibidang koding dan bahas yang saya sukai adalah Golang dan Kotlin. Sejak kecil saya sudah terbiasa dengan koding dan sekarang menjadi sebuah hobi. Cita-cita saya adalah menjadi progremer profesional dan akan membuka bisnis softwerehouse. </string>
+</resources>
